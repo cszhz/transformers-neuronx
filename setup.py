@@ -70,7 +70,7 @@ setup(
     install_requires=[
         'accelerate',
         'safetensors',
-        #'torch-neuronx',
+        'torch-neuronx',
         'transformers>=4.36',
     ],
     python_requires='>=3.7',
